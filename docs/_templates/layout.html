@@ -1,9 +1,10 @@
-{# Inherit default theme layout #}
 {% extends "!layout.html" %}
 
 {% block extrahead %}
-  {{ super() }}
-  {% if bing_verification_code %}
-  <meta name="google-site-verification" content="47AAjqbcOLu823oIbxqhlVaqhaeNzk0uRrPKpar16To" />
-  {% endif %}
+
+    {{ super() }}
+<!-- Bing Webmaster Verification -->
+<meta name="google-site-verification" content="47AAjqbcOLu823oIbxqhlVaqhaeNzk0uRrPKpar16To" />
+
 {% endblock %}
+ 
