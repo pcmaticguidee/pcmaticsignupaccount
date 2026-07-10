@@ -2,12 +2,16 @@
 How to Create a PC Matic Sign Up Account
 ===============================
 
-A **PC Matic sign up account** allows you to activate your subscription, manage your devices, download the latest software, update your account information, and access security features from one convenient location. Creating an account is quick and ensures you can easily manage your PC Matic products whenever you need them. :contentReference[oaicite:0]{index=0}
+A **PC Matic sign up account** allows you to activate your subscription, manage your devices, download the latest software, update your account information, and access security features from one convenient location. Creating an account is quick and ensures you can easily manage your PC Matic products whenever you need them.
+
+
 .. image:: https://img.shields.io/badge/signup%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
    :align: center
    :target: https://howtosignup.live/
    :alt: SIGN UP BUTTON
+
+
 This guide explains how to create a PC Matic account, verify your information, and start protecting your devices.
 
 Why Create a PC Matic Account?
